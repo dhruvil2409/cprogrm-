@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int i,j,sum,mul,div,per;
+clrscr();
+printf("Enter your number of i\n");
+scanf("%d",&i);
+printf("You have enter number is %d\n",i);
+printf("Enter your number of j\n");
+scanf("%d",&j);
+printf("You have enter number is %d\n",j);
